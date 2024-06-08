@@ -2,7 +2,7 @@ import React from 'react'
 import { Spotlight } from './ui/Spotlight'
 import { TextGenerateEffect } from './ui/TextGenerateEffect'
 import MagicButton from './ui/MagicButton'
-import { FaLocationArrow } from 'react-icons/fa'
+import Image from 'next/image'
 
 const Hero = () => {
   return (
@@ -35,7 +35,7 @@ const Hero = () => {
                     </a>
                 </div>
                 <div className='max-w-[30vw] flex justify-end'>
-                    <img src="/horrr.png" alt="Your Image" className="rounded-3xl object-cover"/>
+                    <Image src="/horrr.png" alt="Your Image" className="rounded-3xl object-cover" height={800} width={800}/>
                 </div>
             </div>
         </div>

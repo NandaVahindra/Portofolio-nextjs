@@ -74,7 +74,7 @@ export const navItems = [
       title: "HandSpeak - (In development)",
       des: "An application designed to detect and interpret sign language through real-time hand gesture recognition.",
       img: "/hand.png",
-      iconLists: ["/kotlinlang-icon.svg", "/nodejs-icon.svg", "/google_appengine-icon.svg"],
+      iconLists: ["/kotlinlang-icon.svg", "/nodejs-icon.svg", "/google-cloud-svgrepo-com.svg"],
       link: "https://github.com/elvirawlndr/HandSpeak",
     },
     {
