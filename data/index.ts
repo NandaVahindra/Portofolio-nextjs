@@ -71,11 +71,11 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "HandSpeak - (In development)",
+      title: "HandSpeak - Sign Language Interpreter",
       des: "An application designed to detect and interpret sign language through real-time hand gesture recognition.",
       img: "/hand.png",
       iconLists: ["/kotlinlang-icon.svg", "/nodejs-icon.svg", "/google-cloud-svgrepo-com.svg"],
-      link: "https://github.com/elvirawlndr/HandSpeak",
+      link: "https://github.com/NandaVahindra/HandSpeak-Backend",
     },
     {
       id: 2,
