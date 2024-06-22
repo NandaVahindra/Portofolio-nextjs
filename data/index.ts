@@ -7,7 +7,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "I'm an Informatics Engineering student at ITS Surabaya, Indonesia",
+      title: "Informatics Engineering student at Institut Teknologi Sepuluh Nopember Surabaya, Indonesia",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
